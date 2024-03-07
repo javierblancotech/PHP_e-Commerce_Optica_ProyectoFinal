@@ -36,7 +36,10 @@ This application is ready for deployment to a live server. Ensure you have the a
 For more information or inquiries about this project, you can reach out via:
 
 Website: https://javierblancotech.com/
+
 Email: info@javierblancotech.com
+
 LinkedIn: https://www.linkedin.com/in/javierblancotech/
+
 
 Enjoy the experience of enhancing your eyewear business online with Upgrade Your Optician!
